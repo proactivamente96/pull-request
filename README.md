@@ -2,6 +2,8 @@
 
 Aprendiendo fork y pull request
 
+
+- mi nombre es augusto
 - mi nombre es Aaron, hola
 - mi nombre jorge calderon 
 - mi nombre es fabricio  
