@@ -1,6 +1,8 @@
 # pull-request
+
 Aprendiendo fork y pull request
 
+- mi nombre es Aaron, hola
 - mi nombre jorge calderon 
 - mi nombre es fabricio  
 - mi nombre es Eva Pacajes
